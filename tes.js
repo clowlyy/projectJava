@@ -1,1 +1,1 @@
-document.write("hasil")
+document.write("hasildd")
