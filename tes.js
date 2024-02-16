@@ -1,1 +1,2 @@
-document.write("hasildd")
+let mama = "mamamia"
+console.error(mama)
